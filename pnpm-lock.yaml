@@ -27,8 +27,8 @@ importers:
         specifier: ^2.0.5
         version: 2.0.5(vitest@2.0.5(@types/node@22.1.0))
       console-fail-test:
-        specifier: ^0.4.4
-        version: 0.4.4
+        specifier: ^0.5.0
+        version: 0.5.0
       cspell:
         specifier: ^8.13.1
         version: 8.13.1
@@ -1355,8 +1355,8 @@ packages:
     resolution: {integrity: sha512-I5qxpzLv+sJhTVEoLYNcTW+bThDCPsit0vLNKShZx6rLtpilNpmmeTPaeqJb9ZE9dV3DGaeby6Vuhrw38WjeyQ==}
     engines: {node: ^14.18.0 || >=16.10.0}
 
-  console-fail-test@0.4.4:
-    resolution: {integrity: sha512-wWH0xCDWmy8/3ty8+VYG9+Jvc0QSm2kiN5rs5tjeYDqrcUF+9vfc99gVmimTN4mASkIUgGR7mF4CGVDuWtjvaA==}
+  console-fail-test@0.5.0:
+    resolution: {integrity: sha512-nghkQcJ9DJMYtdN1L/ZNu1GvnLMo38DTneWX23+WbIdvjuVkbcshGFxgIG5LbI9j/th4dgwUc0Hiwtq85VWb/Q==}
     engines: {node: '>=18'}
 
   conventional-changelog-angular@7.0.0:
@@ -4753,7 +4753,7 @@ snapshots:
 
   consola@3.2.3: {}
 
-  console-fail-test@0.4.4: {}
+  console-fail-test@0.5.0: {}
 
   conventional-changelog-angular@7.0.0:
     dependencies:
@@ -6274,7 +6274,7 @@ snapshots:
       ky: 1.5.0
       registry-auth-token: 5.0.2
       registry-url: 6.0.1
-      semver: 7.6.2
+      semver: 7.6.3
 
   parent-module@1.0.1:
     dependencies:
@@ -6610,7 +6610,7 @@ snapshots:
 
   semver-diff@4.0.0:
     dependencies:
-      semver: 7.6.2
+      semver: 7.6.3
 
   semver@7.6.2: {}
 
@@ -6961,7 +6961,7 @@ snapshots:
       is-npm: 6.0.0
       latest-version: 9.0.0
       pupa: 3.1.0
-      semver: 7.6.2
+      semver: 7.6.3
       semver-diff: 4.0.0
       xdg-basedir: 5.1.0
 
