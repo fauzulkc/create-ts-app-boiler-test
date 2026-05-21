@@ -69,7 +69,7 @@
 		"typescript-eslint": "^8.0.0",
 		"vitest": "^2.0.5"
 	},
-	"packageManager": "pnpm@9.6.0+sha256.dae0f7e822c56b20979bb5965e3b73b8bdabb6b8b8ef121da6d857508599ca35",
+	"packageManager": "pnpm@9.15.9+sha512.68046141893c66fad01c079231128e9afb89ef87e2691d69e4d40eee228988295fd4682181bae55b58418c3a253bde65a505ec7c5f9403ece5cc3cd37dcf2531",
 	"engines": {
 		"node": ">=18"
 	},
